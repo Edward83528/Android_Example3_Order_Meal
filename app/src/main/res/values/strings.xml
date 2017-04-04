@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Order_Meal</string>
+    <string name="number">桌號:</string>
+    <string name="main_meal">主餐</string>
+    <string name="attach_meal">附餐</string>
+    <string name="order">點餐</string>
+    <string name="cumston">一般顧客</string>
+    <string name="vip">VIP</string>
+    <string name="a">A餐$100</string>
+    <string name="b">B餐$150</string>
+    <string name="c">C餐$200</string>
+    <string name="d">D餐$250</string>
+    <string name="tee">紅茶</string>
+    <string name="coggee">咖啡</string>
+</resources>
